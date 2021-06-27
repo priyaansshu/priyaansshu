@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyaansshu
-- 👀 I’m interested in Writing and Filmmaking
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning DSA and Front-End Development 
+- 👀 I’m also interested in Writing and Filmmaking
 - 📫 Reach me at priyanshumodi.1909@gmail.com
 
 <!---
