@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @priyaansshu
-- 🌱 I’m currently learning DSA and Front-End Development 
-- 👀 I’m also interested in Writing and Filmmaking
+- 👋 Hi, I’m Priyanshu
+- 🖥 I’m currently learning DSA and Front-End Development 
+- 💛 I’m also interested in Writing and Filmmaking
 - 📫 Reach me at priyanshumodi.1909@gmail.com
 
 <!---
